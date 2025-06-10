@@ -6,20 +6,12 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<video src="/assets/videos/output_video_sample1000.mp4"
-       width="560"
-       muted
-       loop
-       controls
-       preload="metadata">
-  Your browser can’t play this video.
-</video>
 
----
+<!-- ---
 layout: home            # keep the home layout
 title: "Prathamesh Kulkarni"
 permalink: /
----
+--- -->
 
 <!-- ===== HERO / NAME ===== -->
 <div class="text-center my-4">
@@ -57,9 +49,17 @@ permalink: /
 <!-- Project 1 -->
 <div class="row my-4">
   <div class="col-md-6">
-    <video src="/assets/videos/simulation-demo.mp4"
+    <video src="/assets/videos/output_video_sample1000.mp4"
            width="100%" controls loop muted preload="metadata"
-           poster="/assets/images/demo-thumb.jpg"></video>
+           poster="/files/DoubleNetwork_zoomed.png"></video>
+    <video src="/assets/videos/output_video_sample1000.mp4"
+       width="560"
+       muted
+       loop
+       controls
+       preload="metadata">
+  Your browser can’t play this video.
+</video>       
   </div>
   <div class="col-md-6">
     <h3>Bidisperse Packing-Derived Network Simulator</h3>
@@ -69,6 +69,7 @@ permalink: /
       energy and non-affinity. <br>
       <strong>Tech:</strong> C++, FIRE, Jekyll + Python post-analysis.
     </p>
+    <img src="/files/DoubleNetwork_zoomed.png" class="img-fluid rounded" alt="Double Network snapshot" width="100"></img>
   </div>
 </div>
 
