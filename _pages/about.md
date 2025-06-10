@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<video src="/assets/videos/output_video_sample_1000.mp4"
+<video src="/assets/videos/output_video_sample1000.mp4"
        width="560"
        muted
        loop
