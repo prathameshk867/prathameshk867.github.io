@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Prathamesh Kulkarni"
 author_profile: true
 redirect_from: 
   - /about/
@@ -14,7 +14,76 @@ redirect_from:
        preload="metadata">
   Your browser can’t play this video.
 </video>
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+
+---
+layout: home            # keep the home layout
+title: "Prathamesh Kulkarni"
+permalink: /
+---
+
+<!-- ===== HERO / NAME ===== -->
+<div class="text-center my-4">
+  <h1 style="font-size:3rem; font-weight:700;">Prathamesh Kulkarni</h1>
+  <p style="font-size:1.25rem;">Computational Soft-Matter • PhD @ Rice University</p>
+</div>
+
+<!-- ===== ABOUT ===== -->
+<div class="row align-items-center my-5">
+  <div class="col-md-7">
+    <h2>About&nbsp;Me</h2>
+    <p>
+      I build coarse-grained C++ simulations to study rigidity transitions
+      in cross-linked biopolymer networks (actin, collagen, vimentin).
+      My work spans nonlinear force–extension models, FIRE minimisation,
+      and <em>in-silico</em> robophysical prototypes.
+    </p>
+    <p>
+      <strong>Contact&nbsp;•</strong>
+      <a href="mailto:prathamesh.kulkarni@rice.edu">Email</a> ·
+      <a href="https://scholar.google.com/…">Google Scholar</a> ·
+      <a href="https://linkedin.com/in/…">LinkedIn</a>
+    </p>
+  </div>
+
+  <div class="col-md-5 text-center">
+    <img src="/assets/images/lattice.png" class="img-fluid rounded"
+         alt="Lattice simulation snapshot">
+  </div>
+</div>
+
+<!-- ===== PROJECTS ===== -->
+<h2 id="projects" class="mt-5">Projects</h2>
+
+<!-- Project 1 -->
+<div class="row my-4">
+  <div class="col-md-6">
+    <video src="/assets/videos/simulation-demo.mp4"
+           width="100%" controls loop muted preload="metadata"
+           poster="/assets/images/demo-thumb.jpg"></video>
+  </div>
+  <div class="col-md-6">
+    <h3>Bidisperse Packing-Derived Network Simulator</h3>
+    <p>
+      C++ engine that extracts contact networks from bidisperse packings, applies
+      incremental shear with Lees–Edwards boundaries, and measures stress,
+      energy and non-affinity. <br>
+      <strong>Tech:</strong> C++, FIRE, Jekyll + Python post-analysis.
+    </p>
+  </div>
+</div>
+
+<!-- Duplicate ↑ block for more projects -->
+
+<!-- ===== PUBLICATIONS ===== -->
+<h2 id="publications" class="mt-5">Publications</h2>
+
+1. **Kulkarni P.**, *et al.*  
+   *Title goes here.* Physical Review E (2025)  
+2. …
+
+
+
+I am Prathamesh Kulkarni, currently pursuing PhD in the Department of Chemical and Biomolecular Engineering at Rice University. This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
 A data-driven personal website
 ======
