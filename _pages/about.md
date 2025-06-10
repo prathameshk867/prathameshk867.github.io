@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Prathamesh Kulkarni"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
@@ -14,10 +14,10 @@ permalink: /
 --- -->
 
 <!-- ===== HERO / NAME ===== -->
-<div class="text-center my-4">
+<!-- <div class="text-center my-4">
   <h1 style="font-size:3rem; font-weight:700;">Prathamesh Kulkarni</h1>
   <p style="font-size:1.25rem;">Computational Soft-Matter • PhD @ Rice University</p>
-</div>
+</div> -->
 
 <!-- ===== ABOUT ===== -->
 <div class="row align-items-center my-5">
