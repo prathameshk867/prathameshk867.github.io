@@ -69,7 +69,7 @@ permalink: /
       energy and non-affinity. <br>
       <strong>Tech:</strong> C++, FIRE, Jekyll + Python post-analysis.
     </p>
-    <img src="/files/DoubleNetwork_zoomed.png" class="img-fluid rounded" alt="Double Network snapshot" width="100"></img>
+    <img src="/files/DoubleNetwork_zoomed.png" class="img-fluid rounded" alt="Double Network snapshot" width="560"></img>
   </div>
 </div>
 
