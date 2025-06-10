@@ -30,7 +30,8 @@ main:
   - title: "CV"
     url: "/files/Resume_PK5.pdf"
     
-
+  # - title: "Simulation"
+  #   url: "/assets/videos/output_video_sample1000.mp4"
 
   # - title: "CV"
   #   url: /cv-json/
