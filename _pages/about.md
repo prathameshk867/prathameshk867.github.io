@@ -87,9 +87,10 @@ states at a critical strain threshold depending on the network connectivity and 
 <!-- poster="/files/DoubleNetwork_zoomed.png" -->
 <!-- Project 1 -->
 <!-- ===== side‑by‑side video pair ===== -->
+<!--
 <div class="row my-4">
 
-  <!-- Video A -->
+  
   <div class="col-12 col-md-6 text-center">
     <figure class="figure">
       <video src="/assets/videos/output_-50_new_u2.mp4"
@@ -101,7 +102,7 @@ states at a critical strain threshold depending on the network connectivity and 
     </figure>
   </div>
 
-  <!-- Video B -->
+  
   <div class="col-12 col-md-6 text-center">
     <figure class="figure">
       <video src="/assets/videos/output_50_new_u2.mp4"
@@ -114,10 +115,9 @@ states at a critical strain threshold depending on the network connectivity and 
   </div>
 
 </div>
-
-
+-->
 <div class="row my-4">
-  <div class="col-md-4 text-center">
+  <div class="col-12 col-md-6 text-center">
     <figure class="figure">
     <video src="/assets/videos/output_-50_new_u2.mp4"
            width="400" controls loop muted preload="metadata"></video>
@@ -172,7 +172,7 @@ states at a critical strain threshold depending on the network connectivity and 
 <!--  START: side‑by‑side video comparison  -->
 <div class="row">
   <div class="col-md-4"> <video src="/assets/videos/output_-50_new_u2.mp4"
-           width="100" controls loop muted preload="metadata"></video></div>
+           width="300" controls loop muted preload="metadata"></video></div>
   <div class="col-md-4"> <video src="/assets/videos/output_50_new_u2.mp4"
-           width="100" controls loop muted preload="metadata"></video></div>
+           width="300" controls loop muted preload="metadata"></video></div>
 </div>
