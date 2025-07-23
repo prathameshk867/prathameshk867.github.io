@@ -83,6 +83,36 @@ states at a critical strain threshold depending on the network connectivity and 
 <p>Red: High tension blue: low tension/compression </p>
 <!-- poster="/files/DoubleNetwork_zoomed.png" -->
 <!-- Project 1 -->
+<!-- ===== side‑by‑side video pair ===== -->
+<div class="row my-4">
+
+  <!-- Video A -->
+  <div class="col-12 col-md-6 text-center">
+    <figure class="figure">
+      <video src="/assets/videos/output_-50_new_u2.mp4"
+             class="img-fluid"
+             controls loop muted preload="metadata"></video>
+      <figcaption class="figure-caption">
+        Negative feedback: force chains persist → rigidity
+      </figcaption>
+    </figure>
+  </div>
+
+  <!-- Video B -->
+  <div class="col-12 col-md-6 text-center">
+    <figure class="figure">
+      <video src="/assets/videos/output_50_new_u2.mp4"
+             class="img-fluid"
+             controls loop muted preload="metadata"></video>
+      <figcaption class="figure-caption">
+        Positive feedback: chains lost → no rigidity
+      </figcaption>
+    </figure>
+  </div>
+
+</div>
+
+
 <div class="row my-4">
   <div class="col-md-4 text-center">
     <figure class="figure">
