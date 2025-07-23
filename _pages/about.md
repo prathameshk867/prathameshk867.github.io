@@ -24,10 +24,13 @@ permalink: /
   <div class="col-md-7">
     <h2>About&nbsp;Me</h2>
     <p>
-      I build coarse-grained C++ simulations to study rigidity transitions
-      in cross-linked biopolymer networks (actin, collagen, vimentin).
-      My work spans nonlinear force–extension models, FIRE minimisation,
-      and <em>in-silico</em> robophysical prototypes.
+    In my research, I build computational models to understand how crosslinked biopolymer networks behave
+and fail under mechanical deformation. In my doctoral work under Prof. Fred MacKintosh and Prof. Ana-
+toly Kolomeisky, I have developed simulations of lattice-based and off-lattice fiber networks (such as collagen,
+actin/vimentin) that explore mechanical phase transitions, phenomena like strain-stiffening, spring-like stretch-
+ing/bending, stress relaxation, and crosstalk between components of composite networks. These models provide
+deeper insights into the response of biomaterials under mechanical stimuli and turning floppy spring-like networks (biomaterials) into tunable rigid networks (or composites) for the desired response as
+well as material failure.
     </p>
     <p>
       <strong>Contact&nbsp;•</strong>
