@@ -108,7 +108,7 @@ states at a critical strain threshold depending on the network connectivity and 
 
 <!-- </div> -->
 
-  <h3>Stress relaxation in spring networks via force-depedendent stochastic severing</h3>
+  <h3>Mechanics of composite networks with rope-like filaments</h3>
 <div class="row my-4">
   <div class="col-md-6">
     <video src="/assets/videos/output_video_sample1000.mp4"
