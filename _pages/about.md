@@ -71,23 +71,24 @@ states at a critical strain threshold depending on the network connectivity and 
 <p>Here are some movies that demonstrate their mechanical behavior:</p>
 <!-- <div><img class="bg-white p-3 text-center my-3" src="/images/phasediagramschematic.png" class="img-fluid rounded" alt="phasediagramschematic" width="300"> --></div>
 <div class="bg-white p-3 text-center my-3">
-  <img src="/images/phasediagramschematic.png"
+  <img src="/images/phasediagram_background2.png"
        class="img-fluid rounded"
        alt="phase‑diagram schematic"
-       width="300">
+       width="400">
 </div>
   <h3>Stress relaxation in spring networks via force-depedendent stochastic severing</h3>
 
-
+<p> Highly connected network at shear strain = 0.2 under stochastic filament loss with positive and negative mechano-chemical feedback:</p>
+<p>Red: High tension blue: low tension/compression </p>
 <!-- poster="/files/DoubleNetwork_zoomed.png" -->
 <!-- Project 1 -->
 <div class="row my-4">
   <div class="col-md-6 text-center">
     <figure class="figure">
     <video src="/assets/videos/output_-50_new_u2.mp4"
-           width="300" controls loop muted preload="metadata"></video>
+           width="400" controls loop muted preload="metadata"></video>
        <figcaption class="figure-caption">
-        <strong>Stress relaxation</strong><br>
+         Negative feedback: Load bearing force chains are present even at lower connectivities => rigidity 
         <!-- Z=4.0&nbsp;&nbsp;·&nbsp;&nbsp;γ = 0.2 -->
        </figcaption>       
           </figure>
@@ -97,9 +98,9 @@ states at a critical strain threshold depending on the network connectivity and 
   <div class="col-md-6 text-center">
     <figure class="figure">
     <video src="/assets/videos/output_50_new_u2.mp4"
-           width="300" controls loop muted preload="metadata"></video>
+           width="400" controls loop muted preload="metadata"></video>
        <figcaption class="figure-caption">
-        <strong>Stress relaxation</strong><br>
+        Positive feedback: Load bearing force chains are absent even at higher connectivities => no rigidity 
         <!-- Z=4.0&nbsp;&nbsp;·&nbsp;&nbsp;γ = 0.2 -->
        </figcaption>       
           </figure> 
