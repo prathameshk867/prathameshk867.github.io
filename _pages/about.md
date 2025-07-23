@@ -110,10 +110,11 @@ states at a critical strain threshold depending on the network connectivity and 
 
   <h3>Mechanics of composite networks with rope-like filaments</h3>
 <div class="row my-4">
-  <img src="/files/DoubleNetwork_zoomed.png" class="img-fluid rounded" alt="Double Network snapshot" width="300"></img>
-  <div class="col-md-6">
+  
+  <div class="col-md-4">
     <video src="/assets/videos/output_video_sample1000.mp4"
            width="300" controls loop muted preload="metadata"></video>
+<img src="/files/DoubleNetwork_zoomed.png" class="img-fluid rounded" alt="Double Network snapshot" width="300">
   </div>
 </div>
 
