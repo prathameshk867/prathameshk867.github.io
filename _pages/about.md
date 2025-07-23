@@ -69,8 +69,7 @@ network behavior have shown a strain-controlled rigidity transition. When subjec
 states at a critical strain threshold depending on the network connectivity and geometry. This transition exhibits rich critical phenomena and is second-order in nature. 
 </p>
 <p>Here are some movies that demonstrate their mechanical behavior:</p>
-<div><img class="bg-white p-3 text-center my-3" src="/images/phasediagramschematic.png" class="img-fluid rounded" alt="phasediagramschematic" width="300">
-</div>
+<!-- <div><img class="bg-white p-3 text-center my-3" src="/images/phasediagramschematic.png" class="img-fluid rounded" alt="phasediagramschematic" width="300"> --></div>
 <div class="bg-white p-3 text-center my-3">
   <img src="/assets/images/phasediagramschematic.png"
        class="img-fluid rounded"
