@@ -61,13 +61,25 @@ filament (In preparation) </li>
 
 
 <!-- ===== PROJECTS ===== -->
-<h2 id="projects" class="mt-5">Projects</h2>
-<h3>Stress relaxation in spring networks via force-depedendent stochastic severing</h3>
+<h2 id="projects" class="mt-5">Projects and Gallery</h2>
+
+<p> Crosslinked fiber networks form a crucial part of biological systems contributing towards building tissues and are vital for processes like cell motility while being responsible for the structural
+integrity. Their mechanical behavior is highly influenced by individual fiber properties and the network architecture, and so the average coordination number or connectivity (z) of the network architecture plays a critical role.ecent theories and experiments on fiber
+network behavior have shown a strain-controlled rigidity transition. When subjected to finite incremental shear deformation, the networks transition from floppy to rigid
+states at a critical strain threshold depending on the network connectivity and geometry. This transition exhibits rich critical phenomena and is second-order in nature. 
+
+Here are some movies that demonstrate their mechanical behavior:
+
+<img src="/images/phasediagramschematic.png" class="img-fluid rounded" alt="Double Network snapshot" width="560"></img>
+
+  <h4>Stress relaxation in spring networks via force-depedendent stochastic severing</h4>
+
+</p>
 <!-- poster="/files/DoubleNetwork_zoomed.png" -->
 <!-- Project 1 -->
 <div class="row my-4">
   <div class="col-md-6">
-    <video src="/assets/videos/output_video_sample1000.mp4"
+    <video src="/assets/videos/output_-50_new_u2.mp4"
            width="100%" controls loop muted preload="metadata"></video>
     <video src="/assets/videos/output_video_sample1000.mp4"
        width="560"
