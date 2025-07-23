@@ -24,13 +24,10 @@ permalink: /
   <div class="col-md-7">
     <h2>About&nbsp;Me</h2>
     <p>
-    In my research, I build computational models to understand how crosslinked biopolymer networks behave
-and fail under mechanical deformation. In my doctoral work under Prof. Fred MacKintosh and Prof. Ana-
-toly Kolomeisky, I have developed simulations of lattice-based and off-lattice fiber networks (such as collagen,
-actin/vimentin) that explore mechanical phase transitions, phenomena like strain-stiffening, spring-like stretch-
-ing/bending, stress relaxation, and crosstalk between components of composite networks. These models provide
-deeper insights into the response of biomaterials under mechanical stimuli and turning floppy spring-like networks (biomaterials) into tunable rigid networks (or composites) for the desired response as
-well as material failure.
+    In my research, I build computational models to understand how biological soft matter such as crosslinked biopolymer networks behave and fail under mechanical deformation. In my doctoral work under Prof. Fred MacKintosh and Prof. Anatoly Kolomeisky, I have worked on understanding lattice-based and off-lattice fiber networks (e.g. collagen,
+actin/vimentin) that explore mechanical phase transitions (criticality), phenomena like strain-stiffening, spring-like stretching/bending, stress relaxation, and crosstalk between components of composite networks. These models provide
+deeper insights into the response of biomaterials under mechanical stimuli and turning floppy spring-like networks (biomaterials) into tunable rigid networks (or composites) for the desired response as well as material failure using computaional tools in soft matter and statistical mechanics. 
+    I am deeply interested in applying computational tools using principles of physics and chemical engineering to solve real world problems and drive innovation in the field of soft materials, healthcare and engineering. Please feel free to reach out for discussions or collaborations.
     </p>
     <p>
       <strong>Contact&nbsp;•</strong>
@@ -41,13 +38,14 @@ well as material failure.
   </div>
 
   <div class="col-md-5 text-center">
-    <img src="/assets/images/lattice.png" class="img-fluid rounded"
-         alt="Lattice simulation snapshot">
+    <!-- <img src="/assets/images/lattice.png" class="img-fluid rounded" -->
+         <!-- alt="Lattice simulation snapshot"> -->
   </div>
 </div>
 
 <!-- ===== PROJECTS ===== -->
 <h2 id="projects" class="mt-5">Projects</h2>
+<h3>Stress relaxation in spring networks via force-depedendent stochastic severing</h3>
 
 <!-- Project 1 -->
 <div class="row my-4">
