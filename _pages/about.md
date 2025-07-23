@@ -94,6 +94,24 @@ states at a critical strain threshold depending on the network connectivity and 
   Your browser can’t play this video.
 </video>       
   </div>
+
+
+  <h3>Stress relaxation in spring networks via force-depedendent stochastic severing</h3>
+<div class="row my-4">
+  <div class="col-md-6">
+    <video src="/assets/videos/output_video_sample1000.mp4"
+           width="100%" controls loop muted preload="metadata"></video>
+    <!-- <video src="/assets/videos/output_50_new_u2.mp4"
+       width="300"
+       muted
+       loop
+       controls
+       preload="metadata">
+  Your browser can’t play this video.
+</video>        -->
+<img src="/files/DoubleNetwork_zoomed.png" class="img-fluid rounded" alt="Double Network snapshot" width="250"></img>
+  </div>
+
   <div class="col-md-6">
     <h3>Bidisperse Packing-Derived Network Simulator</h3>
     <p>
