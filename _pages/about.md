@@ -171,8 +171,8 @@ states at a critical strain threshold depending on the network connectivity and 
 
 <!--  START: side‑by‑side video comparison  -->
 <div class="row">
-  <div class="column"> <video src="/assets/videos/output_-50_new_u2.mp4"
-           width="400" controls loop muted preload="metadata"></video></div>
-  <div class="column"> <video src="/assets/videos/output_-50_new_u2.mp4"
-           width="400" controls loop muted preload="metadata"></video></div>
+  <div class="col-md-4"> <video src="/assets/videos/output_-50_new_u2.mp4"
+           width="100" controls loop muted preload="metadata"></video></div>
+  <div class="col-md-4"> <video src="/assets/videos/output_50_new_u2.mp4"
+           width="100" controls loop muted preload="metadata"></video></div>
 </div>
