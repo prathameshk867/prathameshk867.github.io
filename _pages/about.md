@@ -71,7 +71,7 @@ states at a critical strain threshold depending on the network connectivity and 
 <p>Here are some movies that demonstrate their mechanical behavior:</p>
 <!-- <div><img class="bg-white p-3 text-center my-3" src="/images/phasediagramschematic.png" class="img-fluid rounded" alt="phasediagramschematic" width="300"> --></div>
 <div class="bg-white p-3 text-center my-3">
-  <img src="/assets/images/phasediagramschematic.png"
+  <img src="/images/phasediagramschematic.png"
        class="img-fluid rounded"
        alt="phase‑diagram schematic"
        width="300">
