@@ -93,14 +93,7 @@ states at a critical strain threshold depending on the network connectivity and 
         <!-- Z=4.0&nbsp;&nbsp;·&nbsp;&nbsp;γ = 0.2 -->
        </figcaption>       
           </figure>
-    <figure class="figure">
-    <video src="/assets/videos/output_-50_new_u2.mp4"
-           width="400" controls loop muted preload="metadata"></video>
-       <figcaption class="figure-caption">
-         Negative feedback: Load bearing force chains are present even at lower connectivities => rigidity 
-        <!-- Z=4.0&nbsp;&nbsp;·&nbsp;&nbsp;γ = 0.2 -->
-       </figcaption>       
-          </figure>          
+          
   </div>
 
   <!-- <div> -->
