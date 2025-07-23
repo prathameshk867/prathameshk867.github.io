@@ -170,34 +170,9 @@ states at a critical strain threshold depending on the network connectivity and 
 <!-- </div> -->
 
 <!--  START: side‑by‑side video comparison  -->
-<div class="row my-4">
-
-  <!-- column 1 -->
-  <div class="col-12 col-md-6 text-center">
-    <figure class="figure">
-      <video src="/assets/videos/output_-50_new_u2.mp4"
-             class="img-fluid"
-             controls loop muted preload="metadata"></video>
-      <figcaption class="figure-caption mt-2">
-        <strong>Negative feedback:</strong> force chains persist → rigidity
-      </figcaption>
-    </figure>
-  </div>
-
-  <!-- column 2 -->
-  <div class="col-12 col-md-6 text-center">
-    <figure class="figure">
-      <video src="/assets/videos/output_50_new_u2.mp4"
-             class="img-fluid"
-             controls loop muted preload="metadata"></video>
-      <figcaption class="figure-caption mt-2">
-        <strong>Positive feedback:</strong> chains lost → no rigidity
-      </figcaption>
-    </figure>
-  </div>
-
-</div><!--  END row  -->
-
-
-
-
+<div class="row">
+  <div class="column"> <video src="/assets/videos/output_-50_new_u2.mp4"
+           width="400" controls loop muted preload="metadata"></video></div>
+  <div class="column"> <video src="/assets/videos/output_-50_new_u2.mp4"
+           width="400" controls loop muted preload="metadata"></video></div>
+</div>
