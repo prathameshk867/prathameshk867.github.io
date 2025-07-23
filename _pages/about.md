@@ -83,7 +83,7 @@ states at a critical strain threshold depending on the network connectivity and 
   <h3>Stress relaxation in spring networks via force-depedendent stochastic severing</h3>
 
 <p> Highly connected network at shear strain = 0.2 under stochastic filament loss with positive and negative mechano-chemical feedback:</p>
-<p>Red: High tension blue: low tension/compression </p>
+<p> <span style="color: red;">Red:</span>  High tension <span style="color:blue;">Blue:</span>  low tension/compression </p>
 <!-- poster="/files/DoubleNetwork_zoomed.png" -->
 <!-- Project 1 -->
 <!-- ===== side‑by‑side video pair ===== -->
