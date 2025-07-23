@@ -70,7 +70,7 @@ states at a critical strain threshold depending on the network connectivity and 
 
 Here are some movies that demonstrate their mechanical behavior:
 
-<img src="/images/phasediagramschematic.png" class="img-fluid rounded" alt="Double Network snapshot" width="560"></img>
+<img class="bg-white p-3 text-center my-3" src="/images/phasediagramschematic.png" class="img-fluid rounded" alt="phasediagramschematic" width="300">
 
   <h4>Stress relaxation in spring networks via force-depedendent stochastic severing</h4>
 
