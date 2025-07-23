@@ -85,8 +85,8 @@ states at a critical strain threshold depending on the network connectivity and 
   <div class="col-md-6">
     <video src="/assets/videos/output_-50_new_u2.mp4"
            width="100%" controls loop muted preload="metadata"></video>
-    <video src="/assets/videos/output_video_sample1000.mp4"
-       width="560"
+    <video src="/assets/videos/output_50_new_u2.mp4"
+       width="300"
        muted
        loop
        controls
