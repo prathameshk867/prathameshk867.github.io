@@ -69,7 +69,8 @@ network behavior have shown a strain-controlled rigidity transition. When subjec
 states at a critical strain threshold depending on the network connectivity and geometry. This transition exhibits rich critical phenomena and is second-order in nature. 
 </p>
 <p>Here are some movies that demonstrate their mechanical behavior:</p>
-<!-- <div><img class="bg-white p-3 text-center my-3" src="/images/phasediagramschematic.png" class="img-fluid rounded" alt="phasediagramschematic" width="300"> --></div>
+<!-- <div><img class="bg-white p-3 text-center my-3" src="/images/phasediagramschematic.png" class="img-fluid rounded" alt="phasediagramschematic" width="300"> -->
+<!-- </div> -->
 <div class="bg-white p-3 text-center my-3">
   <img src="/images/phasediagram_background2.png"
        class="img-fluid rounded"
@@ -92,6 +93,14 @@ states at a critical strain threshold depending on the network connectivity and 
         <!-- Z=4.0&nbsp;&nbsp;·&nbsp;&nbsp;γ = 0.2 -->
        </figcaption>       
           </figure>
+    <figure class="figure">
+    <video src="/assets/videos/output_-50_new_u2.mp4"
+           width="400" controls loop muted preload="metadata"></video>
+       <figcaption class="figure-caption">
+         Negative feedback: Load bearing force chains are present even at lower connectivities => rigidity 
+        <!-- Z=4.0&nbsp;&nbsp;·&nbsp;&nbsp;γ = 0.2 -->
+       </figcaption>       
+          </figure>          
   </div>
 
   <!-- <div> -->
@@ -114,7 +123,10 @@ states at a critical strain threshold depending on the network connectivity and 
   <div class="col-md-4">
     <video src="/assets/videos/output_video_sample1000.mp4"
            width="300" controls loop muted preload="metadata"></video>
-<img src="/files/DoubleNetwork_zoomed.png" class="img-fluid rounded" alt="Double Network snapshot" width="300">
+
+  </div>
+  <div class="col-md-4">
+    <img src="/files/DoubleNetwork_zoomed.png" class="img-fluid rounded" alt="Double Network snapshot" width="300">
   </div>
 </div>
 
