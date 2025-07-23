@@ -68,7 +68,7 @@ integrity. Their mechanical behavior is highly influenced by individual fiber pr
 network behavior have shown a strain-controlled rigidity transition. When subjected to finite incremental shear deformation, the networks transition from floppy to rigid
 states at a critical strain threshold depending on the network connectivity and geometry. This transition exhibits rich critical phenomena and is second-order in nature. 
 </p>
-<p>Here are some movies that demonstrate their mechanical behavior:</p>
+
 <!-- <div><img class="bg-white p-3 text-center my-3" src="/images/phasediagramschematic.png" class="img-fluid rounded" alt="phasediagramschematic" width="300"> -->
 <!-- </div> -->
 <div class="bg-white p-3 text-center my-3">
@@ -77,6 +77,9 @@ states at a critical strain threshold depending on the network connectivity and 
        alt="phase‑diagram schematic"
        width="400">
 </div>
+
+<p>Here are some movies that demonstrate their mechanical behavior:</p>
+
   <h3>Stress relaxation in spring networks via force-depedendent stochastic severing</h3>
 
 <p> Highly connected network at shear strain = 0.2 under stochastic filament loss with positive and negative mechano-chemical feedback:</p>
@@ -91,7 +94,7 @@ states at a critical strain threshold depending on the network connectivity and 
     <figure class="figure">
       <video src="/assets/videos/output_-50_new_u2.mp4"
              class="img-fluid"
-             controls loop muted preload="metadata"></video>
+             controls loop muted preload="metadata" width="300"></video>
       <figcaption class="figure-caption">
         Negative feedback: force chains persist → rigidity
       </figcaption>
@@ -103,7 +106,7 @@ states at a critical strain threshold depending on the network connectivity and 
     <figure class="figure">
       <video src="/assets/videos/output_50_new_u2.mp4"
              class="img-fluid"
-             controls loop muted preload="metadata"></video>
+             controls loop muted preload="metadata" width="300"></video>
       <figcaption class="figure-caption">
         Positive feedback: chains lost → no rigidity
       </figcaption>
