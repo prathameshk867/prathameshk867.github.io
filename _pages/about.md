@@ -83,7 +83,7 @@ states at a critical strain threshold depending on the network connectivity and 
 <!-- poster="/files/DoubleNetwork_zoomed.png" -->
 <!-- Project 1 -->
 <div class="row my-4">
-  <div class="col-md-6 text-center">
+  <div class="col-md-4 text-center">
     <figure class="figure">
     <video src="/assets/videos/output_-50_new_u2.mp4"
            width="400" controls loop muted preload="metadata"></video>
@@ -95,7 +95,7 @@ states at a critical strain threshold depending on the network connectivity and 
   </div>
 
   <!-- <div> -->
-  <div class="col-md-6 text-center">
+  <div class="col-md-4 text-center">
     <figure class="figure">
     <video src="/assets/videos/output_50_new_u2.mp4"
            width="400" controls loop muted preload="metadata"></video>
@@ -110,28 +110,21 @@ states at a critical strain threshold depending on the network connectivity and 
 
   <h3>Mechanics of composite networks with rope-like filaments</h3>
 <div class="row my-4">
+  <img src="/files/DoubleNetwork_zoomed.png" class="img-fluid rounded" alt="Double Network snapshot" width="300"></img>
   <div class="col-md-6">
     <video src="/assets/videos/output_video_sample1000.mp4"
            width="300" controls loop muted preload="metadata"></video>
-    <!-- <video src="/assets/videos/output_50_new_u2.mp4"
-       width="300"
-       muted
-       loop
-       controls
-       preload="metadata">
-  Your browser can’t play this video.
-</video>        -->
-<img src="/files/DoubleNetwork_zoomed.png" class="img-fluid rounded" alt="Double Network snapshot" width="250"></img>
   </div>
+</div>
 
-  <div class="col-md-6">
+  <div class="col-md-4">
     <h3>Robophysics bootcamp</h3>
     <p>
        <!-- <br> -->
       <!-- <strong>Tech:</strong> C++, FIRE, Jekyll + Python post-analysis. -->
     </p>
      <video src="/assets/videos/bootcamp_video.mp4"
-           width="300" controls loop muted preload="metadata"></video>
+           width="400" controls loop muted preload="metadata"></video>
 
   </div>
 </div>
