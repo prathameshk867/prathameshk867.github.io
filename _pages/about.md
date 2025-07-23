@@ -125,13 +125,13 @@ states at a critical strain threshold depending on the network connectivity and 
   </div>
 
   <div class="col-md-6">
-    <h3>Bidisperse Packing-Derived Network Simulator</h3>
+    <h3>Robophysics bootcamp</h3>
     <p>
-      C++ engine that extracts contact networks from bidisperse packings, applies
-      incremental shear with Lees–Edwards boundaries, and measures stress,
-      energy and non-affinity. <br>
+       <!-- <br> -->
       <!-- <strong>Tech:</strong> C++, FIRE, Jekyll + Python post-analysis. -->
     </p>
-    <img src="/files/DoubleNetwork_zoomed.png" class="img-fluid rounded" alt="Double Network snapshot" width="560"></img>
+     <video src="/assets/videos/bootcamp_video.mp4"
+           width="300" controls loop muted preload="metadata"></video>
+
   </div>
 </div>
