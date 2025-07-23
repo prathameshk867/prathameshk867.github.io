@@ -34,8 +34,8 @@ I am deeply interested in applying computational tools using principles of physi
     <p>
       <strong>Contact&nbsp;•</strong>
       <a href="mailto:prathamesh.kulkarni@rice.edu">Email</a> ·
-      <a href="https://scholar.google.com/…">Google Scholar</a> ·
-      <a href="https://linkedin.com/in/…">LinkedIn</a>
+      <a href="https://scholar.google.com/citations?hl=en&user=AB1YjFIAAAAJ">Google Scholar</a> ·
+      <a href="www.linkedin.com/in/prathamesh-kulkarni-944a8b111">LinkedIn</a>
     </p>
   </div>
 
@@ -52,9 +52,9 @@ I am deeply interested in applying computational tools using principles of physi
 <!-- ===== PUBLICATIONS ===== -->
 <h2 id="publications" class="mt-5">Publications</h2>
 <ul>
-<li> 1. Kulkarni, P., Kolomeisky, A. B., MacKintosh, F. C., Stress relaxation in spring networks via force-dependent stochastic
+<li> Kulkarni, P., Kolomeisky, A. B., MacKintosh, F. C., Stress relaxation in spring networks via force-dependent stochastic
 severing (In prep) </li>
-<li>2. Kulkarni, P., Gupta, S., Kolomeisky, A. B., MacKintosh, F. C., Mechanics of composite networks with rope-like
+<li> Kulkarni, P., Gupta, S., Kolomeisky, A. B., MacKintosh, F. C., Mechanics of composite networks with rope-like
 filament (In preparation) </li>
 </ul>
 </div>
