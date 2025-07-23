@@ -82,25 +82,36 @@ states at a critical strain threshold depending on the network connectivity and 
 <!-- poster="/files/DoubleNetwork_zoomed.png" -->
 <!-- Project 1 -->
 <div class="row my-4">
-  <div class="col-md-6">
+  <div class="col-md-6 text-center">
+    <figure class="figure">
     <video src="/assets/videos/output_-50_new_u2.mp4"
-           width="100%" controls loop muted preload="metadata"></video>
-    <video src="/assets/videos/output_50_new_u2.mp4"
-       width="300"
-       muted
-       loop
-       controls
-       preload="metadata">
-  Your browser can’t play this video.
-</video>       
+           width="300" controls loop muted preload="metadata"></video>
+       <figcaption class="figure-caption">
+        <strong>Stress relaxation</strong><br>
+        <!-- Z=4.0&nbsp;&nbsp;·&nbsp;&nbsp;γ = 0.2 -->
+       </figcaption>       
+          </figure>
   </div>
 
+  <!-- <div> -->
+  <div class="col-md-6 text-center">
+    <figure class="figure">
+    <video src="/assets/videos/output_50_new_u2.mp4"
+           width="300" controls loop muted preload="metadata"></video>
+       <figcaption class="figure-caption">
+        <strong>Stress relaxation</strong><br>
+        <!-- Z=4.0&nbsp;&nbsp;·&nbsp;&nbsp;γ = 0.2 -->
+       </figcaption>       
+          </figure> 
+  </div>
+
+<!-- </div> -->
 
   <h3>Stress relaxation in spring networks via force-depedendent stochastic severing</h3>
 <div class="row my-4">
   <div class="col-md-6">
     <video src="/assets/videos/output_video_sample1000.mp4"
-           width="100%" controls loop muted preload="metadata"></video>
+           width="300" controls loop muted preload="metadata"></video>
     <!-- <video src="/assets/videos/output_50_new_u2.mp4"
        width="300"
        muted
@@ -118,7 +129,7 @@ states at a critical strain threshold depending on the network connectivity and 
       C++ engine that extracts contact networks from bidisperse packings, applies
       incremental shear with Lees–Edwards boundaries, and measures stress,
       energy and non-affinity. <br>
-      <strong>Tech:</strong> C++, FIRE, Jekyll + Python post-analysis.
+      <!-- <strong>Tech:</strong> C++, FIRE, Jekyll + Python post-analysis. -->
     </p>
     <img src="/files/DoubleNetwork_zoomed.png" class="img-fluid rounded" alt="Double Network snapshot" width="560"></img>
   </div>
