@@ -140,7 +140,7 @@ states at a critical strain threshold depending on the network connectivity and 
        </figcaption>       
           </figure> 
   </div>
-
+</div>
 <!-- </div> -->
 
   <h3>Mechanics of composite networks with rope-like filaments</h3>
@@ -154,7 +154,7 @@ states at a critical strain threshold depending on the network connectivity and 
   <div class="col-md-4">
     <img src="/files/DoubleNetwork_zoomed.png" class="img-fluid rounded" alt="Double Network snapshot" width="300">
   </div>
-</div>
+
 
   <div class="col-md-4">
     <h3>Robophysics bootcamp</h3>
@@ -167,3 +167,37 @@ states at a critical strain threshold depending on the network connectivity and 
 
   </div>
 </div>
+<!-- </div> -->
+
+<!--  START: side‑by‑side video comparison  -->
+<div class="row my-4">
+
+  <!-- column 1 -->
+  <div class="col-12 col-md-6 text-center">
+    <figure class="figure">
+      <video src="/assets/videos/output_-50_new_u2.mp4"
+             class="img-fluid"
+             controls loop muted preload="metadata"></video>
+      <figcaption class="figure-caption mt-2">
+        <strong>Negative feedback:</strong> force chains persist → rigidity
+      </figcaption>
+    </figure>
+  </div>
+
+  <!-- column 2 -->
+  <div class="col-12 col-md-6 text-center">
+    <figure class="figure">
+      <video src="/assets/videos/output_50_new_u2.mp4"
+             class="img-fluid"
+             controls loop muted preload="metadata"></video>
+      <figcaption class="figure-caption mt-2">
+        <strong>Positive feedback:</strong> chains lost → no rigidity
+      </figcaption>
+    </figure>
+  </div>
+
+</div><!--  END row  -->
+
+
+
+
