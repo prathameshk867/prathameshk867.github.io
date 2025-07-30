@@ -53,7 +53,7 @@ I am deeply interested in applying computational tools using principles of physi
 <h2 id="publications" class="mt-5">Publications</h2>
 <ul>
 <li> Kulkarni, P., Kolomeisky, A. B., MacKintosh, F. C., Stress relaxation in spring networks via force-dependent stochastic
-severing (In prep) </li>
+severing (In preparation) </li>
 <li> Kulkarni, P., Gupta, S., Kolomeisky, A. B., MacKintosh, F. C., Mechanics of composite networks with rope-like
 filament (In preparation) </li>
 </ul>
