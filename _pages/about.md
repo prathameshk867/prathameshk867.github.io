@@ -80,6 +80,9 @@ states at a critical strain threshold depending on the network connectivity and 
 
 <p>At the phase boundary, there is formation of load bearing force chains that span the system. Here are some movies that demonstrate their mechanical behavior:</p>
 
+<div class="row my-4  text-center">
+  <div class="col-md-4 text-center">
+
   <h3>Stress relaxation in spring networks via force-depedendent stochastic severing</h3>
 
 <p> Highly crosslinked network at shear strain under stochastic filament loss </p>
@@ -117,8 +120,7 @@ states at a critical strain threshold depending on the network connectivity and 
 
 </div>
 -->
-<div class="row my-4  text-center">
-  <div class="col-md-4 text-center">
+
     <figure class="figure">
     <video src="/assets/videos/output_-50_new_u2.mp4"
            width="400" controls loop muted preload="metadata"></video>
@@ -146,11 +148,11 @@ states at a critical strain threshold depending on the network connectivity and 
 </div>
 <!-- </div> -->
 
-  <h3>Mechanics of composite networks with rope-like filaments</h3>
+  
 <div class="row-my-4 text-center">
   
   <div class="col-md-4 text-center">
-
+<h3>Mechanics of composite networks with rope-like filaments</h3>
 <img src="/files/DoubleNetwork_zoomed.png" class="img-fluid rounded" alt="Double Network snapshot" width="400">
   </div>
   <div class="col-md-4">
