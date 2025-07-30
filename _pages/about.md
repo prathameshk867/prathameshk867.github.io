@@ -64,7 +64,7 @@ filament (In preparation) </li>
 <h2 id="projects" class="mt-5">Projects and Gallery</h2>
 
 <p> Crosslinked fiber networks form a crucial part of biological systems contributing towards building tissues and are vital for processes like cell motility while being responsible for the structural
-integrity. Their mechanical behavior is highly influenced by individual fiber properties and the network architecture, and so the average coordination number or connectivity (z) of the network architecture plays a critical role.ecent theories and experiments on fiber
+integrity. Their mechanical behavior is highly influenced by individual fiber properties and the network architecture, and so the average coordination number or connectivity (z) of the network architecture plays a critical role.Recent theories and experiments on fiber
 network behavior have shown a strain-controlled rigidity transition. When subjected to finite incremental shear deformation, the networks transition from floppy to rigid
 states at a critical strain threshold depending on the network connectivity and geometry. This transition exhibits rich critical phenomena and is second-order in nature. 
 </p>
@@ -78,11 +78,11 @@ states at a critical strain threshold depending on the network connectivity and 
        width="400">
 </div>
 
-<p>Here are some movies that demonstrate their mechanical behavior:</p>
+<p>At the phase boundary, there is formation of load bearing force chains that span the system. Here are some movies that demonstrate their mechanical behavior:</p>
 
   <h3>Stress relaxation in spring networks via force-depedendent stochastic severing</h3>
 
-<p> Highly connected network at shear strain = 0.2 under stochastic filament loss with positive and negative mechano-chemical feedback:</p>
+<p> Highly connected network at shear strain = 0.2 under stochastic filament loss with Tension-enhanced (positive)  and Tension-suppressed (negative) mechano-chemical feedback:</p>
 <p> <span style="color: red;">Red:</span>  High tension <span style="color:blue;">Blue:</span>  low tension/compression </p>
 <!-- poster="/files/DoubleNetwork_zoomed.png" -->
 <!-- Project 1 -->
@@ -154,6 +154,10 @@ states at a critical strain threshold depending on the network connectivity and 
         <video src="/assets/videos/output_video_sample1000.mp4"
            width="300" controls loop muted preload="metadata"></video>
     <!-- <img src="/files/DoubleNetwork_zoomed.png" class="img-fluid rounded" alt="Double Network snapshot" width="300"> -->
+         <figcaption class="figure-caption">
+        Network achieves rigidity at lower strains than expected as the ropes "activate"!
+        <!-- Z=4.0&nbsp;&nbsp;·&nbsp;&nbsp;γ = 0.2 -->
+       </figcaption>       
   </div>
 
 
