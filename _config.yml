@@ -22,11 +22,11 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/APS_photo.png"
-  name             : "Prathamesh Kulkarni"
+  avatar           : "/images/APS_photo1.png"
+  # name             : "Prathamesh Kulkarni"
   # pronouns         : # example: "she/her"  
   # bio              : "Computational Soft Matter | Chemical Engineer"
-  location         : "Houston, TX"
+  # location         : "Houston, TX"
   # employer         : "Rice University"
   # uri              : # URL
   # email            : "pvk4@rice.edu" 
