@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "APS_photo1.png"
+  avatar           : "APS_photo2.jpg"
   # name             : "Prathamesh Kulkarni"
   # pronouns         : # example: "she/her"  
   bio              : "Computational Soft Matter | Chemical Engineer | Biophysics | Statistical Mechanics"
@@ -34,7 +34,7 @@ author:
   # Academic websites
   # academia         : # URL
   # arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?hl=en&user=AB1YjFIAAAAJ"
+  # googlescholar    : "https://scholar.google.com/citations?hl=en&user=AB1YjFIAAAAJ"
   # impactstory      : # URL
   # orcid            : "http://orcid.org/yourorcidurl"
  # semantic         : # URL
