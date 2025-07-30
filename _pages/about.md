@@ -116,7 +116,7 @@ states at a critical strain threshold depending on the network connectivity and 
 
 </div>
 -->
-<div class="row-my-4  text-center">
+<div class="row my-4  text-center">
   <div class="col-md-4 text-center">
     <figure class="figure">
     <video src="/assets/videos/output_-50_new_u2.mp4"
