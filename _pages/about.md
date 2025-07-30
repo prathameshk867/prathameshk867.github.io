@@ -76,6 +76,10 @@ states at a critical strain threshold depending on the network connectivity and 
        class="img-fluid rounded"
        alt="phase‑diagram schematic"
        width="400">
+       <img src="/images/APS_photo1.png"
+       class="img-fluid rounded"
+       alt="phase‑diagram schematic"
+       width="400">
 </div>
 
 <p>At the phase boundary, there is formation of load bearing force chains that span the system. Here are some movies that demonstrate their mechanical behavior:</p>
