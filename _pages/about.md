@@ -122,9 +122,10 @@ states at a critical strain threshold depending on the network connectivity and 
     <video src="/assets/videos/output_-50_new_u2.mp4"
            width="400" controls loop muted preload="metadata"></video>
        <figcaption class="figure-caption">
-         Negative feedback: Load bearing force chains are present even at lower connectivities => rigidity 
+         <!-- Negative feedback: Load bearing force chains are present even at lower connectivities => rigidity  -->
         <!-- Z=4.0&nbsp;&nbsp;·&nbsp;&nbsp;γ = 0.2 -->
        </figcaption>       
+       <p>Negative feedback: Load bearing force chains are present even at lower connectivities => rigidity </p>
           </figure>
           
   </div>
@@ -135,42 +136,14 @@ states at a critical strain threshold depending on the network connectivity and 
     <video src="/assets/videos/output_50_new_u2.mp4"
            width="400" controls loop muted preload="metadata"></video>
        <figcaption class="figure-caption">
-        Positive feedback: Load bearing force chains are absent even at higher connectivities => no rigidity 
+        <!-- Positive feedback: Load bearing force chains are absent even at higher connectivities => no rigidity  -->
         <!-- Z=4.0&nbsp;&nbsp;·&nbsp;&nbsp;γ = 0.2 -->
        </figcaption>       
+       <p>Positive feedback: Load‑bearing force chains are absent even at higher connectivities ⇒ no rigidity</p>
           </figure> 
   </div>
 </div>
 <!-- </div> -->
-
-<div class="row my-4 justify-content-center text-center">
-
-  <div class="col-12 col-md-6">
-    <figure class="figure mx-auto">
-      <video src="/assets/videos/output_-50_new_u2.mp4"
-             class="d-block rounded"
-             style="max-width:400px; width:100%;"
-             controls loop muted preload="metadata"></video>
-      <figcaption class="figure-caption">
-        Negative feedback: Load‑bearing force chains are present even at lower connectivities ⇒ rigidity
-      </figcaption>
-    </figure>
-  </div>
-
-  <div class="col-12 col-md-6">
-    <figure class="figure mx-auto">
-      <video src="/assets/videos/output_50_new_u2.mp4"
-             class="d-block rounded"
-             style="max-width:400px; width:100%;"
-             controls loop muted preload="metadata"></video>
-      <figcaption class="figure-caption">
-        Positive feedback: Load‑bearing force chains are absent even at higher connectivities ⇒ no rigidity
-      </figcaption>
-      <p>Positive feedback: Load‑bearing force chains are absent even at higher connectivities ⇒ no rigidity</p>
-    </figure>
-  </div>
-
-</div>
 
   <h3>Mechanics of composite networks with rope-like filaments</h3>
 <div class="row-my-4 text-center">
@@ -187,6 +160,7 @@ states at a critical strain threshold depending on the network connectivity and 
         Network achieves rigidity at lower strains than expected as the ropes "activate"!
         <!-- Z=4.0&nbsp;&nbsp;·&nbsp;&nbsp;γ = 0.2 -->
        </figcaption>       
+       <p>Network achieves rigidity at lower strains than expected as the ropes "activate"!</p>
   </div>
 
 
