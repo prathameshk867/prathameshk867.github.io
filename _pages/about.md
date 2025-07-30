@@ -148,7 +148,7 @@ states at a critical strain threshold depending on the network connectivity and 
   
   <div class="col-md-4 text-center">
 
-<img src="/files/DoubleNetwork_zoomed.png" class="img-fluid rounded" alt="Double Network snapshot" width="00">
+<img src="/files/DoubleNetwork_zoomed.png" class="img-fluid rounded" alt="Double Network snapshot" width="400">
   </div>
   <div class="col-md-4">
         <video src="/assets/videos/output_video_sample1000.mp4"
