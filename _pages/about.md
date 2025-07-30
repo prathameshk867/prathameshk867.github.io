@@ -166,6 +166,7 @@ states at a critical strain threshold depending on the network connectivity and 
       <figcaption class="figure-caption">
         Positive feedback: Load‑bearing force chains are absent even at higher connectivities ⇒ no rigidity
       </figcaption>
+      <p>Positive feedback: Load‑bearing force chains are absent even at higher connectivities ⇒ no rigidity</p>
     </figure>
   </div>
 
