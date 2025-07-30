@@ -23,10 +23,10 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "/images/APS_photo.png"
-  # name             : "Prathamesh Kulkarni"
+  name             : "Prathamesh Kulkarni"
   # pronouns         : # example: "she/her"  
   # bio              : "Computational Soft Matter | Chemical Engineer"
-  # location         : "Houston, TX"
+  location         : "Houston, TX"
   # employer         : "Rice University"
   # uri              : # URL
   # email            : "pvk4@rice.edu" 
