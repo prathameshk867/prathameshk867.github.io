@@ -71,7 +71,7 @@ states at a critical strain threshold depending on the network connectivity and 
 
 <!-- <div><img class="bg-white p-3 text-center my-3" src="/images/phasediagramschematic.png" class="img-fluid rounded" alt="phasediagramschematic" width="300"> -->
 <!-- </div> -->
-<div class="bg-white p-3 text-center my-3">
+<div class="bg-white p-3 text-center my-3"> 
   <img src="/images/phasediagram_background2.png"
        class="img-fluid rounded"
        alt="phase‑diagram schematic"
@@ -116,7 +116,7 @@ states at a critical strain threshold depending on the network connectivity and 
 
 </div>
 -->
-<div class="row my-4">
+<div class="row my-4  text-center">
   <div class="col-12 col-md-6 text-center">
     <figure class="figure">
     <video src="/assets/videos/output_-50_new_u2.mp4"
@@ -144,15 +144,15 @@ states at a critical strain threshold depending on the network connectivity and 
 <!-- </div> -->
 
   <h3>Mechanics of composite networks with rope-like filaments</h3>
-<div class="row my-4">
+<div class="row-my-4 text-center">
   
-  <div class="col-md-4">
+  <div class="col-md-4 text-center">
 
 <img src="/files/DoubleNetwork_zoomed.png" class="img-fluid rounded" alt="Double Network snapshot" width="00">
   </div>
   <div class="col-md-4">
         <video src="/assets/videos/output_video_sample1000.mp4"
-           width="300" controls loop muted preload="metadata"></video>
+           width="400" controls loop muted preload="metadata"></video>
     <!-- <img src="/files/DoubleNetwork_zoomed.png" class="img-fluid rounded" alt="Double Network snapshot" width="300"> -->
          <figcaption class="figure-caption">
         Network achieves rigidity at lower strains than expected as the ropes "activate"!
@@ -161,7 +161,7 @@ states at a critical strain threshold depending on the network connectivity and 
   </div>
 
 
-  <div class="col-md-4">
+  <div class="col-md-4  text-center" >
     <h3>Robophysics bootcamp</h3>
 
      <video src="/assets/videos/bootcamp_video.mp4"
