@@ -148,7 +148,7 @@ states at a critical strain threshold depending on the network connectivity and 
   
   <div class="col-md-4">
 
-<img src="/files/DoubleNetwork_zoomed.png" class="img-fluid rounded" alt="Double Network snapshot" width="500">
+<img src="/files/DoubleNetwork_zoomed.png" class="img-fluid rounded" alt="Double Network snapshot" width="00">
   </div>
   <div class="col-md-4">
         <video src="/assets/videos/output_video_sample1000.mp4"
@@ -172,6 +172,34 @@ states at a critical strain threshold depending on the network connectivity and 
     Arduino-programmed 5-linker robot using Dynamixel servo motors. Such robots can be used as model system to test principles of locomotion as well as understand biomechanics and locomotion of organisms like snakes, centipedes, etc. 
     </p>
 </div>
+
+
+
+<!-- ==== SIDE‑BY‑SIDE BLOCK ==== -->
+<div class="row my-4 align-items-center">
+
+  <!--‑‑ Media column (video, image, iframe, etc.) ‑‑-->
+  <div class="col-12 col-md-5 text-center">
+    <video src="/assets/videos/bootcamp_video.mp4"
+           class="img-fluid rounded"
+           width="100%"     <!-- keeps it responsive -->
+           controls loop muted preload="metadata"></video>
+  </div>
+
+  <!--‑‑ Text column ‑‑-->
+  <div class="col-12 col-md-7">
+    <h3 class="mt-3 mt-md-0">Robophysics Boot Camp (Jul 2025)</h3>
+    <p>
+      As part of Dan Goldman’s workshop at Georgia Tech, I
+      <strong>assembled and Arduino‑programmed a 5‑link swimmer robot
+      driven by Dynamixel servo motors with torsional‑spring joints</strong>.
+      We recorded linker kinematics and distance‑per‑cycle scaling to test
+      locomotion performance in a drag‑dominated regime.
+    </p>
+  </div>
+
+</div>
+
 <!-- </div> -->
 
 <!--  START: side‑by‑side video comparison  -->
