@@ -76,10 +76,6 @@ states at a critical strain threshold depending on the network connectivity and 
        class="img-fluid rounded"
        alt="phase‑diagram schematic"
        width="400">
-       <img src="/images/APS_photo1.png"
-       class="img-fluid rounded"
-       alt="phase‑diagram schematic"
-       width="400">
 </div>
 
 <p>At the phase boundary, there is formation of load bearing force chains that span the system. Here are some movies that demonstrate their mechanical behavior:</p>
@@ -164,7 +160,7 @@ states at a critical strain threshold depending on the network connectivity and 
            width="400" controls loop muted preload="metadata"></video>
     <!-- <img src="/files/DoubleNetwork_zoomed.png" class="img-fluid rounded" alt="Double Network snapshot" width="300"> -->
          <figcaption class="figure-caption">
-        Network achieves rigidity at lower strains than expected as the ropes "activate"!
+        <!-- Network achieves rigidity at lower strains than expected as the ropes "activate"! -->
         <!-- Z=4.0&nbsp;&nbsp;·&nbsp;&nbsp;γ = 0.2 -->
        </figcaption>       
        <p>Network achieves rigidity at lower strains than expected as the ropes "activate"!</p>
