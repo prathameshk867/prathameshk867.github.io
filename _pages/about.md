@@ -163,14 +163,14 @@ states at a critical strain threshold depending on the network connectivity and 
 
   <div class="col-md-4">
     <h3>Robophysics bootcamp</h3>
-    <p>
-       <!-- <br> -->
-      <!-- <strong>Tech:</strong> C++, FIRE, Jekyll + Python post-analysis. -->
-    </p>
+
      <video src="/assets/videos/bootcamp_video.mp4"
            width="400" controls loop muted preload="metadata"></video>
 
   </div>
+      <p>
+    Arduino-programmed 5-linker robot using Dynamixel servo motors. Such robots can be used as model system to test principles of locomotion as well as understand biomechanics and locomotion of organisms like snakes, centipedes, etc. 
+    </p>
 </div>
 <!-- </div> -->
 
