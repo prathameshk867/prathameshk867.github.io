@@ -35,7 +35,7 @@ I am deeply interested in applying computational tools using principles of physi
       <strong>Contact&nbsp;•</strong>
       <a href="mailto:prathamesh.kulkarni@rice.edu">Email</a> ·
       <a href="https://scholar.google.com/citations?hl=en&user=AB1YjFIAAAAJ">Google Scholar</a> ·
-      <a href="www.linkedin.com/in/prathamesh-kulkarni-944a8b111">LinkedIn</a>
+      <a href="https://www.linkedin.com/in/prathamesh-kulkarni-944a8b111">LinkedIn</a>
     </p>
   </div>
 
