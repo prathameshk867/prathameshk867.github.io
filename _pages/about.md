@@ -63,12 +63,30 @@ filament (In preparation) </li>
 <!-- ===== PROJECTS ===== -->
 <h2 id="projects" class="mt-5">Projects and Gallery</h2>
 
-<p> Crosslinked fiber networks form a crucial part of biological systems contributing towards building tissues and are vital for processes like cell motility while being responsible for the structural
+<!-- <p> Crosslinked fiber networks form a crucial part of biological systems contributing towards building tissues and are vital for processes like cell motility while being responsible for the structural
 integrity. Their mechanical behavior is highly influenced by individual fiber properties and the network architecture, and so the average coordination number or connectivity (z) of the network architecture plays a critical role.Recent theories and experiments on fiber
 network behavior have shown a strain-controlled rigidity transition. When subjected to finite incremental shear deformation, the networks transition from floppy to rigid
-states at a critical strain threshold depending on the network connectivity and geometry. This transition exhibits rich critical phenomena and is second-order in nature. 
-</p>
+states at a critical strain threshold depending on the network connectivity and geometry. This transition exhibits rich critical phenomena and is second-order in nature.  -->
+<!-- </p> -->
 
+<p>Crosslinked fiber networks form a crucial part of biological systems responsible for providing structural integrity amongst many other things. From collagen mesh that lets your skin stretch without tearing to fibrin web that seals a blood clot to intracellular biopolymer actin cortex that gives cells their shape, they are everywhere. 
+  When these fibers are tied together to form networks, they behave collectively as a versatile biomaterial that can stiffen on demand, resist breakage, distribute loads, etc.
+  Understanding these networks helps us design tougher biomaterials, improve wound-healing therapies, and create soft devices that mimic the resilience of living tissue.
+
+  Factors that influence how these networks respond when they are deformed:</p>
+<ul>
+  <li>Fiber properties: how stiff or stretchy each strand is.</li>
+
+  <li>Connectivity (z): the average number of links each fiber makes with its neighbours.</li>
+
+  <li>Applied strain</li>
+
+</ul>
+
+  As you slowly shear the network, it first behaves like a loose net that bends. Beyond a specific amount of strain, however, the links tighten and the structure suddenly becomes rigid.
+This floppy-to-rigid switch is a second-order phase transition and exhibits rich critical phenomena.
+
+</p>
 <!-- <div><img class="bg-white p-3 text-center my-3" src="/images/phasediagramschematic.png" class="img-fluid rounded" alt="phasediagramschematic" width="300"> -->
 <!-- </div> -->
 <div class="bg-white p-3 text-center my-3"> 
