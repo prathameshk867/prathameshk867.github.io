@@ -75,7 +75,7 @@ states at a critical strain threshold depending on the network connectivity and 
 
  <p> Factors that influence how these networks respond when they are deformed:</p>
 <ul>
-  <li>Fiber properties: how stiff or stretchy each strand is.</li>
+  <li>Fiber mechanical properties: stretching and bending stiffness</li>
 
   <li>Connectivity (z): the average number of links each fiber makes with its neighbours.</li>
 
