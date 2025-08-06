@@ -79,7 +79,7 @@ states at a critical strain threshold depending on the network connectivity and 
 
   <li>Connectivity (z): the average number of links each fiber makes with its neighbours.</li>
 
-  <li>Applied strain</li>
+  <li>Applied shear strain or other mechanical deformation</li>
 
 </ul>
 
