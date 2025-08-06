@@ -71,9 +71,9 @@ states at a critical strain threshold depending on the network connectivity and 
 
 <p>Crosslinked fiber networks form a crucial part of biological systems responsible for providing structural integrity amongst many other things. From collagen mesh that lets your skin stretch without tearing to fibrin web that seals a blood clot to intracellular biopolymer actin cortex that gives cells their shape, they are everywhere. 
   When these fibers are tied together to form networks, they behave collectively as a versatile biomaterial that can stiffen on demand, resist breakage, distribute loads, etc.
-  Understanding these networks helps us design tougher biomaterials, improve wound-healing therapies, and create soft devices that mimic the resilience of living tissue.
+  Understanding these networks helps us design tougher biomaterials, improve wound-healing therapies, and create soft devices that mimic the resilience of living tissue.</p>
 
-  Factors that influence how these networks respond when they are deformed:</p>
+ <p> Factors that influence how these networks respond when they are deformed:</p>
 <ul>
   <li>Fiber properties: how stiff or stretchy each strand is.</li>
 
@@ -83,10 +83,8 @@ states at a critical strain threshold depending on the network connectivity and 
 
 </ul>
 
-  As you slowly shear the network, it first behaves like a loose net that bends. Beyond a specific amount of strain, however, the links tighten and the structure suddenly becomes rigid.
-This floppy-to-rigid switch is a second-order phase transition and exhibits rich critical phenomena.
-
-</p>
+  <p>As you slowly shear the network, it first behaves like a loose net that bends. Beyond a specific amount of strain, however, the links tighten and the structure suddenly becomes rigid.
+This floppy-to-rigid switch is a second-order phase transition and exhibits rich critical phenomena.</p>
 <!-- <div><img class="bg-white p-3 text-center my-3" src="/images/phasediagramschematic.png" class="img-fluid rounded" alt="phasediagramschematic" width="300"> -->
 <!-- </div> -->
 <div class="bg-white p-3 text-center my-3"> 
