@@ -28,7 +28,7 @@ permalink: /
 actin/vimentin) that explore mechanical phase transitions (criticality), phenomena like strain-stiffening, spring-like stretching/bending, stress relaxation, and crosstalk between components of composite networks. 
      </p>
      <p>
-These models provide deeper insights into the response of biomaterials under mechanical stimuli and turning floppy spring-like networks (biomaterials) into tunable rigid networks (or composites) for the desired response as well as material failure using computaional tools in soft matter and statistical mechanics. 
+These models provide deeper insights into the response of biomaterials under mechanical stimuli and turning floppy spring-like networks (biomaterials) into tunable rigid networks (or composites) for the desired response as well as material failure using computational tools in soft matter and statistical mechanics. 
 I am deeply interested in applying computational tools using principles of physics and chemical engineering to solve real world problems and drive innovation in the field of soft materials, healthcare and chemical engineering. Please feel free to reach out for discussions or collaborations.
 </p>
     <p>
