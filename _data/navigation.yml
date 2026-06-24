@@ -31,7 +31,8 @@ main:
   #   url: /year-archive/
      
   - title: "CV"
-    url: "/files/TwoPageResume_1.pdf"
+    # url: "/files/TwoPageResume_1.pdf"
+    url: "/files/TwoPageResume6sm2.pdf"
     
   # - title: "Simulation"
   #   url: "/assets/videos/output_video_sample1000.mp4"
